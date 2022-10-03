@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mauriciorosso
-- 👀 I’m interested in learning all related maners to DevOps
+- 👀 I’m interested in learning all related manners to DevOps
 - 🌱 I’m currently learning github
 
 
